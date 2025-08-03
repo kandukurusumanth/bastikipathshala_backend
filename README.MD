@@ -16,7 +16,7 @@
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/kandukurusumanth/bastikipathshala_backend-.git
+git clone https://github.com/kandukurusumanth/bastikipathshala_backend.git
 cd bastikipathshala_backend
 npm install
 cp .env.example .env

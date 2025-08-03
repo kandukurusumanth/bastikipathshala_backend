@@ -16,8 +16,8 @@
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/kandukurusumanth/bastikipathshala_backend-.git
+cd bastikipathshala_backend
 npm install
 cp .env.example .env
 npm run dev
